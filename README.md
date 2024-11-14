@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an enthusiastic intern and freelancer specializing in full-stack development, with a strong emphasis on modern web technologies. My proficiency encompasses a diverse tech stack, including React for building dynamic and responsive user interfaces, Java for robust backend applications, and Python for versatile scripting and data manipulation tasks.
+I am an enthusiastic Full time employee and freelancer specializing in full-stack development, with a strong emphasis on modern web technologies. My proficiency encompasses a diverse tech stack, including React for building dynamic and responsive user interfaces, Java for robust backend applications, and Python for versatile scripting and data manipulation tasks.
 
 Throughout my journey in the software development world, I have actively contributed to several open-source projects. These experiences have not only honed my technical skills but have also enhanced my ability to collaborate effectively within a team environment. I take pride in writing clean, maintainable code and implementing best practices throughout all stages of the development process.
 
